@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Afnan Awan — AI, automation and web products</title>
+  <desc id="desc">A dark navy banner with a teal workflow illustration connecting ideas, systems and products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#122C39"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#2DD4BF"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9FB9C7" opacity=".16"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="54" y="50" width="54" height="4" rx="2" fill="#2DD4BF"/>
+  <text x="54" y="91" fill="#8DE8DB" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4">BUILDING USEFUL SOFTWARE</text>
+  <text x="51" y="163" fill="#F1F5F9" font-family="Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Afnan Awan</text>
+  <text x="54" y="207" fill="#B8CAD5" font-family="Arial,sans-serif" font-size="22">AI tools · Workflow automation · Web products</text>
+  <text x="54" y="259" fill="#738F9F" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">PYTHON  /  DJANGO  /  JAVASCRIPT  /  MACHINE LEARNING</text>
+  <path d="M800 89H920V150H1060V220" fill="none" stroke="url(#line)" stroke-width="2.5" opacity=".7"/>
+  <rect x="747" y="63" width="122" height="52" rx="13" fill="#122B36" stroke="#2DD4BF" stroke-opacity=".55"/>
+  <rect x="888" y="124" width="122" height="52" rx="13" fill="#173040" stroke="#60A5FA" stroke-opacity=".55"/>
+  <rect x="999" y="194" width="145" height="52" rx="13" fill="#173040" stroke="#60A5FA" stroke-opacity=".55"/>
+  <text x="808" y="95" text-anchor="middle" fill="#B5F3EB" font-family="Arial,sans-serif" font-size="17">Ideas</text>
+  <text x="949" y="156" text-anchor="middle" fill="#C3DCFA" font-family="Arial,sans-serif" font-size="17">Systems</text>
+  <text x="1071" y="226" text-anchor="middle" fill="#C3DCFA" font-family="Arial,sans-serif" font-size="17">Products</text>
+  <circle cx="920" cy="89" r="5" fill="#2DD4BF"/><circle cx="1060" cy="150" r="5" fill="#60A5FA"/>
+</svg>
