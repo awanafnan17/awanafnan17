@@ -1,25 +1,26 @@
 ![Afnan Awan — AI tools, workflow automation and web products](assets/profile-banner.svg)
 
-I build AI-assisted tools, browser automation, and web applications. My work connects **Python and Django backends**, **practical interfaces**, and **machine-learning workflows**—from local speech assistants to job-search systems and spatial training simulations.
+I build AI-assisted tools, workflow automation and web applications. My work connects **Python and Django backends**, **practical interfaces**, and **machine-learning workflows**—from local speech assistants and responsible computer-vision research to job-search systems and cinematic business websites.
 
-[Explore my repositories](https://github.com/awanafnan17?tab=repositories) · [HAC Studios live](https://www.thehacstudios.com/) · [OpenCluely setup](https://github.com/awanafnan17/OpenCluely#readme) · [HuntFlow guide](https://github.com/awanafnan17/huntflow/blob/main/docs/USAGE.md)
+[Explore my repositories](https://github.com/awanafnan17?tab=repositories) · [BarqCargo demo](https://awanafnan17.github.io/BarqCargo/) · [Buildora demo](https://awanafnan17.github.io/Uraib-Dost/) · [HAC Studios live](https://www.thehacstudios.com/)
 
 ## Selected work
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[OpenCluely](https://github.com/awanafnan17/OpenCluely)** | Desktop conversation copilot with Markdown briefs, local speech transcription and streamed answers. **Development source release.** | Electron · JavaScript · Python · Whisper · Ollama |
-| **[HuntFlow](https://github.com/awanafnan17/huntflow)** | AI-assisted LinkedIn messaging, outreach CRM, candidate documents and supported Easy Apply workflows. Extends OpenOutreach with a dashboard, career tools and approval controls. **Still in development.** | Django · Playwright · PostgreSQL · PydanticAI · Ollama |
+| **[OpenCluely](https://github.com/awanafnan17/OpenCluely)** | Local-first desktop conversation copilot with Markdown briefs, live speech transcription and streamed answers. Includes macOS and Windows setup, hardware guidance and measured component timings. **Development source release.** | Electron · JavaScript · Python · Whisper · Ollama |
+| **[HuntFlow](https://github.com/awanafnan17/huntflow)** | AI-assisted LinkedIn messaging, outreach CRM, candidate documents and supported Easy Apply workflows with review controls. **Still in development.** | Django · Playwright · PostgreSQL · PydanticAI · Ollama |
+| **[BarqCargo](https://github.com/awanafnan17/BarqCargo)** | Interactive logistics website with scroll-led storytelling, accessible controls and two local Three.js cargo scenes. **[Live demo ↗](https://awanafnan17.github.io/BarqCargo/)** | Python · HTML/CSS · JavaScript · Three.js |
+| **[Uraib-Dost / Buildora](https://github.com/awanafnan17/Uraib-Dost)** | Motion-rich construction portfolio with fourteen generated project pages, structured business data and a secret-free static deployment. **[Live demo ↗](https://awanafnan17.github.io/Uraib-Dost/)** | Next.js · React · TypeScript · Framer Motion |
 | **[HAC Studios](https://github.com/awanafnan17/TheHACStudios)** | Wedding photography and cinematography portfolio with an editorial static build and custom WordPress child theme. **[Live website ↗](https://www.thehacstudios.com/)** · The live WordPress site differs from the earlier static preview. | Python · HTML/CSS · JavaScript · WordPress/PHP |
-| **[FieldFix AR](https://github.com/awanafnan17/FieldFix-AR)** | Hands-free industrial maintenance **training simulation** for Snap SPECS: trace a fault, inspect 3D components and follow a guided repair sequence. | Lens Studio · TypeScript · SIK · UIKit · LEAF |
-| **[BOOM Challenge](https://github.com/awanafnan17/boom-challenge-submission)** | Physics-informed ensemble modeling for asteroid-impact ejecta prediction and inverse design. A competition submission with reproducible methods documented in the repository. | Python · PyTorch · XGBoost · LightGBM · scikit-learn |
+| **[Interview Face Swap](https://github.com/awanafnan17/interview-face-swap)** | Consent-based, single-image identity-transfer research pipeline using InSwapper 128, remote GPU inference and a disclosed localhost preview. The public version removes device spoofing and camera interception. | Python · OpenCV · InsightFace · ONNX Runtime · ZeroMQ |
 
 ## What I work on
 
 - **AI applications:** local model integration, speech transcription, structured generation and evidence-based document workflows.
 - **Automation systems:** browser-driven tasks, persistent queues, review gates, state tracking and outcome verification.
 - **Web products:** Django applications, dashboards, business websites and usable frontends.
-- **Applied experiments:** machine learning, scientific optimization, geospatial work and interactive AR.
+- **Applied experiments:** responsible computer vision, machine learning, scientific optimization, geospatial work and interactive AR.
 
 ## Tools across my projects
 
@@ -31,9 +32,11 @@ I build AI-assisted tools, browser automation, and web applications. My work con
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 ## Explore further
 
-[Ride-sharing app](https://github.com/awanafnan17/Ride-Sharing-App) · [Geospatial analysis](https://github.com/awanafnan17/geospatial-data-analysis-python) · [Student performance analytics](https://github.com/awanafnan17/student-performance-analytics-algorithm)
+[FieldFix AR](https://github.com/awanafnan17/FieldFix-AR) · [BOOM Challenge](https://github.com/awanafnan17/boom-challenge-submission) · [Ride-sharing app](https://github.com/awanafnan17/Ride-Sharing-App) · [Geospatial analysis](https://github.com/awanafnan17/geospatial-data-analysis-python) · [Student performance analytics](https://github.com/awanafnan17/student-performance-analytics-algorithm)
 
 Each featured repository explains its setup, implementation and current limitations. Open-source foundations and contributors are credited in the project documentation.
