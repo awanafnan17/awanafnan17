@@ -46,6 +46,6 @@ responsible computer-vision research, and business websites.
 
 ## Explore further
 
-[FieldFix AR](https://github.com/awanafnan17/FieldFix-AR) · [BOOM Challenge](https://github.com/awanafnan17/boom-challenge-submission) · [Ride-sharing app](https://github.com/awanafnan17/Ride-Sharing-App) · [Geospatial analysis](https://github.com/awanafnan17/geospatial-data-analysis-python) · [Student performance analytics](https://github.com/awanafnan17/student-performance-analytics-algorithm)
+[FieldFix AR](https://github.com/awanafnan17/FieldFix-AR) · [BOOM Challenge](https://github.com/awanafnan17/boom-challenge-submission) · [Railway kiosk](https://github.com/awanafnan17/Railway_Kiosk) · [Geospatial analysis](https://github.com/awanafnan17/geospatial-data-analysis-python) · [Student performance analytics](https://github.com/awanafnan17/student-performance-analytics-algorithm)
 
 Each featured repository explains its setup, implementation and current limitations. Open-source foundations and contributors are credited in the project documentation.
