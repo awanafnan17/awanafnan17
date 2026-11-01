@@ -1,6 +1,10 @@
-![Afnan Awan — AI tools, workflow automation and web products](assets/profile-banner.svg)
+![Afnan Awan: AI tools, workflow automation and web products](assets/profile-banner.svg)
 
-I build AI-assisted tools, workflow automation and full-stack products. My work connects **Python, Django, Laravel and modern React applications** with **practical interfaces**, **data systems**, and **machine-learning workflows**—from local speech assistants and responsible computer-vision research to enterprise operations, geoscience screening and cinematic business websites.
+I build practical AI tools, automation, and full-stack products. Most of my work
+connects **Python, Django, or Laravel backends** to **modern React interfaces**,
+local models, and real operational workflows. Recent projects include a desktop
+speech assistant, job-search automation, a marble ERP, a geoscience platform,
+responsible computer-vision research, and business websites.
 
 [Explore my repositories](https://github.com/awanafnan17?tab=repositories) · [BarqCargo demo](https://awanafnan17.github.io/BarqCargo/) · [Buildora demo](https://awanafnan17.github.io/Uraib-Dost/) · [HAC Studios live](https://www.thehacstudios.com/)
 
@@ -8,14 +12,14 @@ I build AI-assisted tools, workflow automation and full-stack products. My work 
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[OpenCluely](https://github.com/awanafnan17/OpenCluely)** | Local-first desktop conversation copilot with Markdown briefs, live speech transcription and streamed answers. Includes macOS and Windows setup, hardware guidance and measured component timings. **Development source release.** | Electron · JavaScript · Python · Whisper · Ollama |
-| **[HuntFlow](https://github.com/awanafnan17/huntflow)** | AI-assisted LinkedIn messaging, outreach CRM, candidate documents and supported Easy Apply workflows with review controls. **Still in development.** | Django · Playwright · PostgreSQL · PydanticAI · Ollama |
-| **[Oggy Marble ERP](https://github.com/awanafnan17/Oggy-Marble-ERP)** | Full-stack marble-manufacturing ERP connecting batch inventory, stone-to-slab and slab-to-tile production, double-entry accounting, purchasing, sales, quality, dispatch and management reporting. **Sanitized source-available portfolio release.** | Laravel 12 · PHP · React 19 · TypeScript · Inertia · SQL |
-| **[GeoVision Research Group](https://github.com/awanafnan17/GeoVisionResearchGroup)** | Geoscience consultancy platform combining an editorial public site, GeoSentry mineral-target screening, courses and role-specific administration, expert, student and operations portals. **Development source release.** | Next.js 16 · React 19 · TypeScript · PostgreSQL · Prisma · Three.js |
+| **[OpenCluely](https://github.com/awanafnan17/OpenCluely)** | Desktop conversation assistant with Markdown briefs, live speech transcription, and streamed answers. The docs cover macOS, Windows, hardware, and measured latency. **In development.** | Electron · JavaScript · Python · Whisper · Ollama |
+| **[huntflow](https://github.com/awanafnan17/huntflow)** | Reviewed LinkedIn messages, outreach tracking, candidate documents, and supported Easy Apply workflows. **Still in development.** | Django · Playwright · PostgreSQL · PydanticAI · Ollama |
+| **[Oggy Marble ERP](https://github.com/awanafnan17/Oggy-Marble-ERP)** | Marble ERP that ties batch inventory and factory production to double-entry accounting, purchasing, sales, quality, dispatch, and reporting. **Sanitized source-available release.** | Laravel 12 · PHP · React 19 · TypeScript · Inertia · SQL |
+| **[GeoVision Research Group](https://github.com/awanafnan17/GeoVisionResearchGroup)** | Geoscience platform with a public site, GeoSentry mineral-target screening, courses, and separate administration, expert, student, and operations portals. **Development source release.** | Next.js 16 · React 19 · TypeScript · PostgreSQL · Prisma · Three.js |
 | **[BarqCargo](https://github.com/awanafnan17/BarqCargo)** | Interactive logistics website with scroll-led storytelling, accessible controls and two local Three.js cargo scenes. **[Live demo ↗](https://awanafnan17.github.io/BarqCargo/)** | Python · HTML/CSS · JavaScript · Three.js |
 | **[Uraib-Dost / Buildora](https://github.com/awanafnan17/Uraib-Dost)** | Motion-rich construction portfolio with fourteen generated project pages, structured business data and a secret-free static deployment. **[Live demo ↗](https://awanafnan17.github.io/Uraib-Dost/)** | Next.js · React · TypeScript · Framer Motion |
 | **[HAC Studios](https://github.com/awanafnan17/TheHACStudios)** | Wedding photography and cinematography portfolio with an editorial static build and custom WordPress child theme. **[Live website ↗](https://www.thehacstudios.com/)** · The live WordPress site differs from the earlier static preview. | Python · HTML/CSS · JavaScript · WordPress/PHP |
-| **[Interview Face Swap](https://github.com/awanafnan17/interview-face-swap)** | Consent-based, single-image identity-transfer research pipeline using InSwapper 128, remote GPU inference and a disclosed localhost preview. The public version removes device spoofing and camera interception. | Python · OpenCV · InsightFace · ONNX Runtime · ZeroMQ |
+| **[Interview Face Swap](https://github.com/awanafnan17/interview-face-swap)** | Consent-based single-image identity-transfer research using InSwapper 128, remote GPU inference, and a disclosed localhost preview. The public version removes device spoofing and camera interception. | Python · OpenCV · InsightFace · ONNX Runtime · ZeroMQ |
 
 ## What I work on
 
