@@ -19,7 +19,7 @@ responsible computer-vision research, and business websites.
 | **[BarqCargo](https://github.com/awanafnan17/BarqCargo)** | Interactive logistics website with scroll-led storytelling, accessible controls and two local Three.js cargo scenes. **[Live demo ↗](https://awanafnan17.github.io/BarqCargo/)** | Python · HTML/CSS · JavaScript · Three.js |
 | **[Uraib-Dost / Buildora](https://github.com/awanafnan17/Uraib-Dost)** | Motion-rich construction portfolio with fourteen generated project pages, structured business data and a secret-free static deployment. **[Live demo ↗](https://awanafnan17.github.io/Uraib-Dost/)** | Next.js · React · TypeScript · Framer Motion |
 | **[HAC Studios](https://github.com/awanafnan17/TheHACStudios)** | Wedding photography and cinematography portfolio with an editorial static build and custom WordPress child theme. **[Live website ↗](https://www.thehacstudios.com/)** · The live WordPress site differs from the earlier static preview. | Python · HTML/CSS · JavaScript · WordPress/PHP |
-| **[Interview Face Swap](https://github.com/awanafnan17/interview-face-swap)** | Consent-based single-image identity-transfer research using InSwapper 128, remote GPU inference, and a disclosed localhost preview. The public version removes device spoofing and camera interception. | Python · OpenCV · InsightFace · ONNX Runtime · ZeroMQ |
+| **[FaceSwapper](https://github.com/awanafnan17/FaceSwapper)** | Consent-based single-image identity-transfer research using InSwapper 128, remote GPU inference, and a disclosed localhost preview. The public version removes device spoofing and camera interception. | Python · OpenCV · InsightFace · ONNX Runtime · ZeroMQ |
 
 ## What I work on
 
